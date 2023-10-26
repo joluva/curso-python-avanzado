@@ -1,2 +1,2 @@
 # curso-python-avanzado
-codigo del curzo avanzado de python
+codigo del curso avanzado de python
